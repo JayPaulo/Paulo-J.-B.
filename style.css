@@ -1,0 +1,12 @@
+.button{
+    color: rgb(0, 247, 21);
+    background-color: rgb(255, 0, 140);
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+}
+footer{
+    font-style: italic;
+    font-weight: 900;
+    font-size: larger;
+}
